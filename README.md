@@ -1,5 +1,7 @@
 # wechat_discover
 ##微信附加功能开发
+**新新青年**
+**ID:xxqndsh**
 version 1.0
 ###功能模块
 - 聊天机器人
